@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8955efbe-6521-4075-816b-2cbb046dd9c8" name="Changes" comment="Final before deployment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zomato.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/zomato.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="23vUcNQXlEBZEP2I735sZRaElBQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Data Science\Zomato final\Zomato Chatbot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Data Science\Zomato final\static\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8955efbe-6521-4075-816b-2cbb046dd9c8" name="Changes" comment="" />
+      <created>1642614133303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642614133303</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Final before deployment">
+      <created>1642687169824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642687169824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final before deployment">
+      <created>1642687569555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642687569555</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final before deployment">
+      <created>1642687867943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642687867943</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final before deployment">
+      <created>1642690455457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690455457</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final before deployment">
+      <created>1642690461117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690461117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final before deployment">
+      <created>1642690468682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690468682</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final before deployment">
+      <created>1642690607941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690607941</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final before deployment">
+      <created>1642691120393</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642691120393</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final before deployment">
+      <created>1642693011760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642693011760</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final before deployment">
+      <created>1642693442378</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642693442378</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Final before deployment">
+      <created>1642695974146</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642695974146</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Final before deployment">
+      <created>1642704808756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642704808756</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Final before deployment">
+      <created>1642705909713</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642705909713</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Final before deployment">
+      <created>1642786286166</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642786286166</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final before deployment">
+      <created>1643011036801</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643011036801</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Final before deployment">
+      <created>1643013089665</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643013089665</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Final before deployment">
+      <created>1643013295740</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643013295740</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Final before deployment">
+      <created>1643013482603</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643013482603</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Final before deployment">
+      <created>1643014065047</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1643014065047</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final before deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final before deployment" />
+  </component>
+</project>
